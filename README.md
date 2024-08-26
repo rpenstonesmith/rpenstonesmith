@@ -1,6 +1,6 @@
-# Hi there 👋, my name is Ross. #
+### Hi there 👋, my name is Ross. ###
 
-## I am an aspiring front-end developer based in the UK. ##
+#### I am an aspiring front-end developer based in the UK. ####
 
 Current Skills: JS / HTML / CSS
 
