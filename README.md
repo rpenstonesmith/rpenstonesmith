@@ -1,8 +1,8 @@
-### Hi there 👋, my name is Ross. ###
+# Hi there 👋, my name is Ross. #
 
 ## About Me 🚀
 
-# I am an aspiring front-end developer based in the UK. #
+### I am an aspiring front-end developer based in the UK. ###
 
 - 👀 I’m interested in developing and improving websites to make them accessible, functional, stylish and fun.
 
