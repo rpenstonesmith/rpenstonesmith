@@ -10,7 +10,7 @@
 
 - 🔭 Working on: My own Pesonal Portfolio Website and continuing my web development journey on Codecademy.
   
-- ⚽️🏈 I'm a big football and American football fan.]
+- ⚽️ I'm a big football🔰 and American football 🏈 fan.
 
 ## My Skills 🧠
 
@@ -20,7 +20,7 @@
 
 ## Get in Touch 📬
 
-- **[Personal Portfolio Website]**(your_website_or_blog_link)
+- **[Personal Portfolio Website]** 
 - **[LinkedIn]** www.linkedin.com/in/ross-penstone-smith-9b9682274
 - **[Instagram]** www.instagram.com/rlpsmith/?hl=en
 - **[X]** x.com/rlp_smith
