@@ -1,16 +1,29 @@
 ### Hi there 👋, my name is Ross. ###
 
-#### I am an aspiring front-end developer based in the UK. ####
+## About Me 🚀
 
-Current Skills: JS / HTML / CSS
+# I am an aspiring front-end developer based in the UK. #
 
 - 👀 I’m interested in developing and improving websites to make them accessible, functional, stylish and fun.
 
-- 🌱 I’m currently learning Javascript, React and the use of Git/Github.
+- 🌱 Currently learning: HTML, CSS, Javascript, React and the use of Git/Github.
 
-- ⚽️🏈 I'm a big football and American football fan 
+- 🔭 Working on: My own Pesonal Portfolio Website and continuing my web development journey on Codecademy.
+  
+- ⚽️🏈 I'm a big football and American football fan.]
 
-You can find my portfolio over at ...
+## My Skills 🧠
+
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+## Get in Touch 📬
+
+- **[Personal Portfolio Website]**(your_website_or_blog_link)
+- **[LinkedIn]** www.linkedin.com/in/ross-penstone-smith-9b9682274
+- **[Instagram]** www.instagram.com/rlpsmith/?hl=en
+- **[X]** x.com/rlp_smith
 
 <!---
 rpenstonesmith/rpenstonesmith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
