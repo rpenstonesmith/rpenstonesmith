@@ -23,7 +23,7 @@
 - **[Personal Portfolio Website]** 
 - **[LinkedIn]** www.linkedin.com/in/ross-penstone-smith-9b9682274
 - **[Instagram]** www.instagram.com/rlpsmith/?hl=en
-- **[X]** x.com/rlp_smith
+- **[X]** www.x.com/rlp_smith
 
 <!---
 rpenstonesmith/rpenstonesmith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
