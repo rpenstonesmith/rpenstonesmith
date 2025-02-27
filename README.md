@@ -17,11 +17,10 @@
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React]
 
 ## Get in Touch 📬
 
-- **[Personal Portfolio Website]** 
+- **[Personal Portfolio Website]** https://rpenstonesmith.github.io/Personal-Portfolio-Project/
 - **[LinkedIn]** www.linkedin.com/in/ross-penstone-smith-9b9682274
 - **[Instagram]** www.instagram.com/rlpsmith/?hl=en
 - **[X]** www.x.com/rlp_smith
